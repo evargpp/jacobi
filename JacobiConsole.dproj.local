@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2024.05.18 12:51:03.926,C:\Users\Bartek\Documents\Embarcadero\Studio\Projects\JacobiConsole.dproj=C:\Users\Bartek\Documents\Embarcadero\Studio\Projects\Project2.dproj</Transaction>
+    <Transaction>2024.05.18 12:51:15.898,=C:\Users\Bartek\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2024.05.18 12:51:37.902,C:\Users\Bartek\Documents\Embarcadero\Studio\Projects\JacobiUnit.pas=C:\Users\Bartek\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2024.05.18 12:52:01.329,C:\Users\Bartek\Documents\Embarcadero\Studio\Projects\JaocbiConsole\JacobiUnit.pas=C:\Users\Bartek\Documents\Embarcadero\Studio\Projects\JacobiUnit.pas</Transaction>
+    <Transaction>2024.05.18 12:52:09.142,C:\Users\Bartek\Documents\Embarcadero\Studio\Projects\JaocbiConsole\JacobiConsole.dproj=C:\Users\Bartek\Documents\Embarcadero\Studio\Projects\JacobiConsole.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
